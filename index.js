@@ -14,8 +14,17 @@ let product; // Replace this line with your code.
 // TODO: Divide num1 by num2, and store the result in a variable 'quotient'.
 let quotient; // Replace this line with your code.
 
+ sum = num1 + num2;
+ difference = num1 - num2;
+ product = num1 * num2;
+ quotient = num1 / num2
+
 // Log Results
 console.log(`Sum: ${sum}`);
 console.log(`Difference: ${difference}`);
 console.log(`Product: ${product}`);
 console.log(`Quotient: ${quotient}`);
+
+
+
+
